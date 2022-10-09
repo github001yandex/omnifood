@@ -20,18 +20,19 @@
 }
 .navbar-nav .nav-item .nav-link{
     color: white;
+    background: red;
 }
 .heading{
-    position: relative;
+    position: absolute;
     color: white;
     top: 350px;
     right: 570px;
+    left: 570px
 }
 
 hr{
-    width: 10%;
-    border-color: orange;
-    
+    width: 20%;
+    border: 1px solid red;
 }
 
 #getfood
